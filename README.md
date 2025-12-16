@@ -52,7 +52,7 @@ Git, Docker
 ---
 
 ## 📫 Contact
-- [LinkedIn](#)  
+- [LinkedIn] www.linkedin.com/in/ny-eja-razanatsimba-11706038a
 - Email : ton.email@example.com  
 
 ---
