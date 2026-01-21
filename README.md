@@ -1,65 +1,98 @@
-# 👋 Salut, je suis Razanatsimba Ny Eja Asaramanitra
-
-🎓 Étudiant en 3ème année d'Informatique | 💻 Développeur Back-end | ☕ Autodidacte & persévérant  
-
-J'aime apporter des solutions informatiques, développer des applications et concevoir des systèmes performants. Passionné par la tech, je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences.
-
----
-
-## 👤 À propos de moi
-- Développeur back-end rigoureux et autodidacte, avec une bonne dose de café ☕  
-- Passionné par la création de solutions logicielles optimisées et efficaces  
-- Étudiant en 3ème année de licence en informatique, toujours curieux et motivé pour apprendre  
+<!-- ===================== -->
+<!--  ANIMATION TITRE      -->
+<!-- ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Salut+%F0%9F%91%8B+Je+suis+Razanatsimba+Ny+Eja+Asaramanitra;Développeur+Back-end+Java+%26+Spring+Boot;Étudiant+en+Informatique+3ème+année;Passionné+par+la+Tech+%F0%9F%92%BB" />
+</p>
 
 ---
 
-## 🛠️ Technologies & Outils
+## 👨‍💻 À propos de moi
 
-**Langages de programmation :**  
-Java, C#, Python, JavaScript, C++, HTML5, CSS3  
+🎓 **Étudiant en 3ème année d’Informatique**  
+💻 **Développeur Back-end** (Java / Spring Boot)  
+☕ Autodidacte, persévérant et orienté solution  
 
-**Frameworks & Bibliothèques :**  
-Spring Boot, Vue.js, React.js, Django  
-
-**Bases de données :**  
-PostgreSQL, MySQL  
-
-**Outils & DevOps :**  
-Git, Docker  
+Je conçois et développe des **applications robustes, performantes et bien structurées**.  
+Passionné par l’architecture logicielle, les systèmes backend et les nouvelles technologies, je cherche constamment à **améliorer mes compétences** et relever de nouveaux défis.
 
 ---
 
-## 🚀 Projets phares
+## 🛠️ Stack Technique
 
-**Mini Gestion Banque (EJB)**  
-- Application de gestion bancaire avec EJB, incluant transactions et suivi des comptes  
+### 🚀 Langages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Gestion Cabinet Médical (Spring Boot + React.js)**  
-- Application complète pour gérer patients, rendez-vous et dossiers médicaux  
+### 🧩 Frameworks & Libs
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**Tableau de bord de voiture (C++)**  
-- Dashboard interactif avec jauges et indicateurs de véhicule  
+### 🗄️ Bases de données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Gestion de Notes LMD**  
-- Application de gestion des notes pour étudiants et enseignants  
+### ⚙️ Outils & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🎯 Objectifs & Passions
-- **Objectif professionnel :** Devenir développeur full-stack avec une forte maîtrise de la conception et des solutions informatiques optimisées  
-- **Centres d'intérêt :** Développement d'applications, musique, nouvelles technologies  
+## 🚀 Projets Principaux
+
+### 🏦 Mini Gestion Banque (EJB)
+- Gestion des comptes et transactions bancaires
+- Architecture EJB orientée métier
+- Sécurité et logique transactionnelle
+
+### 🏥 Gestion Cabinet Médical (Spring Boot + React)
+- Gestion patients, rendez-vous et dossiers médicaux
+- API REST sécurisée
+- Front-end moderne et interactif
+
+### 🚗 Tableau de Bord Voiture (C++)
+- Dashboard interactif
+- Jauges, indicateurs et logique temps réel
+
+### 🎓 Gestion de Notes LMD
+- Gestion des notes étudiants/enseignants
+- Logique académique complète
+- Interface simple et efficace
 
 ---
 
-## 📫 Contact
-- [LinkedIn] www.linkedin.com/in/ny-eja-razanatsimba-11706038a
-- Email : razanatsimbanyeja@gmail.com  
+## 🎯 Objectifs
+
+- 🚀 Devenir **développeur Full-Stack**
+- 🧠 Approfondir l’architecture logicielle et les systèmes distribués
+- 🔥 Concevoir des solutions performantes et maintenables
 
 ---
 
 ## 📊 Statistiques GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=TonPseudo&theme=radical" />
+</p>
 
 ---
 
-Merci de votre visite ! N'hésitez pas à explorer mes projets 💻🚀
+## 🌐 Me contacter
+
+📧 **Email** : razanatsimbanyeja@gmail.com  
+💼 **LinkedIn** : [www.linkedin.com/in/ny-eja-razanatsimba-11706038a](https://www.linkedin.com/in/ny-eja-razanatsimba-11706038a)
+
+---
+
+<p align="center">
+  💡 *“Code propre, solutions solides, apprentissage continu.”*
+</p>
