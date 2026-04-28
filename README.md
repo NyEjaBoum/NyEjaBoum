@@ -1,98 +1,87 @@
-<!-- ===================== -->
-<!--  ANIMATION TITRE      -->
-<!-- ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Salut+%F0%9F%91%8B+Je+suis+Razanatsimba+Ny+Eja+Asaramanitra;Développeur+Back-end+Java+%26+Spring+Boot;Étudiant+en+Informatique+3ème+année;Passionné+par+la+Tech+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ny+Eja+RAZANATSIMBA;D%C3%A9veloppeur+Fullstack+Java+%2F+Spring+Boot;Futur+Ing%C3%A9nieur+Logiciel;Expert+en+conception+d'architectures+SaaS" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ny-eja-razanatsimba-11706038a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:razanatsimbanyeja@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 À propos de moi
+## 🚀 À propos de moi
 
-🎓 **Étudiant en 3ème année d’Informatique**  
-💻 **Développeur Back-end** (Java / Spring Boot)  
-☕ Autodidacte, persévérant et orienté solution  
+🎓 **Étudiant en 3ème année d'Informatique** à IT University.  
+👨‍💻 **Fullstack Developer & Team Leader** passionné par la création de systèmes robustes.
 
-Je conçois et développe des **applications robustes, performantes et bien structurées**.  
-Passionné par l’architecture logicielle, les systèmes backend et les nouvelles technologies, je cherche constamment à **améliorer mes compétences** et relever de nouveaux défis.
+> "Ma philosophie : Écrire un code que les autres aiment lire, et construire des systèmes qui ne tombent jamais."
 
----
-
-## 🛠️ Stack Technique
-
-### 🚀 Langages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🧩 Frameworks & Libs
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ Bases de données
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Outils & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Je me spécialise dans le **Backend Java/Spring Boot** et le **Frontend Vue.js**. Mon expertise réside dans la structuration de bases de données complexes, la gestion des workflows transactionnels et l'application rigoureuse des principes **SOLID** et du **Clean Code**.
 
 ---
 
-## 🚀 Projets Principaux
+## 🛠️ Mon Écosystème Technique
 
-### 🏦 Mini Gestion Banque (EJB)
-- Gestion des comptes et transactions bancaires
-- Architecture EJB orientée métier
-- Sécurité et logique transactionnelle
+### 🏗️ Backend & Architecture (Mon Cœur de Métier)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br />Java
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" /><br />Spring Boot
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br />PostgreSQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="40" height="40" alt="Hibernate" /><br />JPA / Hibernate
+    </td>
+  </tr>
+</table>
 
-### 🏥 Gestion Cabinet Médical (Spring Boot + React)
-- Gestion patients, rendez-vous et dossiers médicaux
-- API REST sécurisée
-- Front-end moderne et interactif
+### 🎨 Frontend & Design (Expérience Utilisateur)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue" /><br />Vue.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br />React
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br />Tailwind CSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS" /><br />JavaScript
+    </td>
+  </tr>
+</table>
 
-### 🚗 Tableau de Bord Voiture (C++)
-- Dashboard interactif
-- Jauges, indicateurs et logique temps réel
-
-### 🎓 Gestion de Notes LMD
-- Gestion des notes étudiants/enseignants
-- Logique académique complète
-- Interface simple et efficace
+### ⚙️ DevOps & Leadership
+* **Méthodologies :** Agile (Scrum), Sprint Planning, User Stories.
+* **Outils :** Git, Docker, Postman, Maven.
+* **Soft Skills :** Team Leadership, Gestion de projet technique, Résolution de problèmes complexes.
 
 ---
 
-## 🎯 Objectifs
-
-- 🚀 Devenir **développeur Full-Stack**
-- 🧠 Approfondir l’architecture logicielle et les systèmes distribués
-- 🔥 Concevoir des solutions performantes et maintenables
-
----
-
-## 📊 Statistiques GitHub
+## 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=VOTRE_PSEUDO&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=TonPseudo&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO&layout=compact&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
 
-## 🌐 Me contacter
-
-📧 **Email** : razanatsimbanyeja@gmail.com  
-💼 **LinkedIn** : [www.linkedin.com/in/ny-eja-razanatsimba-11706038a](https://www.linkedin.com/in/ny-eja-razanatsimba-11706038a)
-
----
-
 <p align="center">
-  💡 *“Code propre, solutions solides, apprentissage continu.”*
+  💡 <i>Actuellement à la recherche d'un stage de fin d'études à partir de juin 2026.</i>
 </p>
