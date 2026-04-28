@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/7S_m99W9_9AAAAAC/gumball-coding.gif" alt="Gumball coding" width="400" />
+  <img src="The Amazing World of Gumball gif.gif" alt="Gumball coding" width="400" />
 </p>
 
 <p align="center">
