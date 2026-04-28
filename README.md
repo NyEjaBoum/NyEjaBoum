@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ny+Eja+RAZANATSIMBA;D%C3%A9veloppeur+Fullstack+Java+%2F+Spring+Boot;Futur+Ing%C3%A9nieur+Logiciel;Expert+en+conception+d'architectures+SaaS" />
+  <img src="https://files.catbox.moe/o3d8d6.gif" alt="Gumball en train de coder" />
 </p>
 
 <p align="center">
