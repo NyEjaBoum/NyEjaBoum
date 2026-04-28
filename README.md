@@ -15,69 +15,60 @@
 
 ## 🚀 À propos de moi
 
-🎓 **Étudiant en 3ème année d'Informatique** à IT University.  
-👨‍💻 **Fullstack Developer & Team Leader** passionné par la création de systèmes robustes.
+<p align="center">
+  🎓 <b>Étudiant en 3ème année d'Informatique</b> à IT University.<br>
+  👨‍💻 <b>Fullstack Developer & Team Leader</b> passionné par la création de systèmes robustes.
+</p>
 
-> "Ma philosophie : Écrire un code que les autres aiment lire, et construire des systèmes qui ne tombent jamais."
+<p align="center">
+  <i>"Ma philosophie : Écrire un code que les autres aiment lire, et construire des systèmes qui ne tombent jamais."</i>
+</p>
 
-Je me spécialise dans le **Backend Java/Spring Boot** et le **Frontend Vue.js**. Mon expertise réside dans la structuration de bases de données complexes, la gestion des workflows transactionnels et l'application rigoureuse des principes **SOLID** et du **Clean Code**.
+<p align="center">
+  Je me spécialise dans le <b>Backend Java/Spring Boot</b> et le <b>Frontend Vue.js</b>. Mon expertise réside dans la structuration de bases de données complexes, la gestion des workflows transactionnels et l'application rigoureuse des principes <b>SOLID</b> et du <b>Clean Code</b>.
+</p>
+
+---
+
+## 📅 Mon Activité GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NyEjaBoum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=NyEjaBoum&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyEjaBoum&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-chart.com/api/chart?username=NyEjaBoum&theme=tokyonight&format=svg" width="100%" alt="Mon graphique de contributions" />
+</p>
 
 ---
 
 ## 🛠️ Mon Écosystème Technique
 
-### 🏗️ Backend & Architecture (Mon Cœur de Métier)
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br />Java
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" /><br />Spring Boot
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br />PostgreSQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=hibernate" width="40" height="40" alt="Hibernate" /><br />JPA / Hibernate
-    </td>
-  </tr>
-</table>
-
-### 🎨 Frontend & Design (Expérience Utilisateur)
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue" /><br />Vue.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br />React
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br />Tailwind CSS
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS" /><br />JavaScript
-    </td>
-  </tr>
-</table>
-
-### ⚙️ DevOps & Leadership
-* **Méthodologies :** Agile (Scrum), Sprint Planning, User Stories.
-* **Outils :** Git, Docker, Postman, Maven.
-* **Soft Skills :** Team Leadership, Gestion de projet technique, Résolution de problèmes complexes.
-
----
-
-## 📈 Statistiques GitHub
-
+<h3 align="center">🏗️ Backend & Architecture</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NyEjaBoum&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=NyEjaBoum&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,python,maven" />
+</p>
+
+<h3 align="center">🎨 Frontend & Templating</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,js,html,css" />
+  <br>
+  <img src="https://img.shields.io/badge/FreeMarker-000000?style=for-the-badge&logo=apache&logoColor=white" alt="FreeMarker">
+</p>
+
+<h3 align="center">⚙️ DevOps & Outils</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,idea" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyEjaBoum&layout=compact&theme=tokyonight&hide_border=true" width="70%" />
+  <b>Méthodologies :</b> Agile (Scrum) • Sprint Planning • User Stories<br>
+  <b>Soft Skills :</b> Team Leadership • Architecture Logicielle • Résolution de problèmes
 </p>
 
 ---
