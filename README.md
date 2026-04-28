@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/o3d8d6.gif" alt="Gumball en train de coder" width="400" />
+  <img src="https://media.tenor.com/7S_m99W9_9AAAAAC/gumball-coding.gif" alt="Gumball coding" width="400" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 À propos de moi
+<h2 align="center">🚀 À propos de moi</h2>
 
 <p align="center">
   🎓 <b>Étudiant en 3ème année d'Informatique</b> à IT University.<br>
@@ -34,7 +34,7 @@
 
 ---
 
-## 📅 Mon Activité GitHub
+<h2 align="center">📅 Mon Activité GitHub</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NyEjaBoum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 🛠️ Mon Écosystème Technique
+<h2 align="center">🛠️ Mon Écosystème Technique</h2>
 
 <h3 align="center">🏗️ Backend & Architecture</h3>
 <p align="center">
