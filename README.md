@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://files.catbox.moe/o3d8d6.gif" alt="Gumball en train de coder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ny+Eja+RAZANATSIMBA;D%C3%A9veloppeur+Fullstack+Java+%2F+Spring+Boot;Futur+Ing%C3%A9nieur+Logiciel;Expert+en+conception+d'architectures+SaaS" />
+</p>
+
+<p align="center">
+  <img src="https://files.catbox.moe/o3d8d6.gif" alt="Gumball en train de coder" width="400" />
 </p>
 
 <p align="center">
@@ -57,7 +61,7 @@
 <h3 align="center">🎨 Frontend & Templating</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,react,tailwind,js,html,css" />
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/FreeMarker-000000?style=for-the-badge&logo=apache&logoColor=white" alt="FreeMarker">
 </p>
 
