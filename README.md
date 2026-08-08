@@ -27,14 +27,7 @@
 
 <h2 align="center">📅 Mon Activité GitHub</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NyEjaBoum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=NyEjaBoum&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyEjaBoum&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="80%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NyEjaBoum&theme=tokyonight&hide_border=true&area=true" width="100%" />
