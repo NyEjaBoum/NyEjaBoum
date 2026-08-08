@@ -6,22 +6,13 @@
   <img src="The Amazing World of Gumball gif.gif" alt="Gumball coding" width="400" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ny-eja-razanatsimba-11706038a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:razanatsimbanyeja@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <h2 align="center">🚀 À propos de moi</h2>
 
 <p align="center">
   🎓 <b>Étudiant en 3ème année d'Informatique</b> à IT University.<br>
-  👨‍💻 <b>Fullstack Developer & Team Leader</b> passionné par la création de systèmes robustes.
+  👨‍💻 <b>Fullstack Developer</b> passionné par la création de systèmes robustes.
 </p>
 
 <p align="center">
@@ -29,7 +20,7 @@
 </p>
 
 <p align="center">
-  Je me spécialise dans le <b>Backend Java/Spring Boot</b> et le <b>Frontend Vue.js</b>. Mon expertise réside dans la structuration de bases de données complexes, la gestion des workflows transactionnels et l'application rigoureuse des principes <b>SOLID</b> et du <b>Clean Code</b>.
+  Mon expertise réside dans la structuration de bases de données complexes, la gestion des workflows transactionnels et l'application rigoureuse des principes <b>SOLID</b> et du <b>Clean Code</b>.
 </p>
 
 ---
