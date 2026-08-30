@@ -28,9 +28,7 @@
 
 ## 📅 Mon activité GitHub
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NyEjaBoum&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity graph" />
-</p>
+
 
 <p align="center">
   <picture>
